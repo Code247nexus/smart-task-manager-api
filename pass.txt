@@ -1,0 +1,9 @@
+ "username": "namita",
+    "email": "nammu@gmail.com",
+    "password": "admin@123",
+
+
+
+    "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc4NjExMjIxNiwiaWF0IjoxNzg2MDI1ODE2LCJqdGkiOiI5Zjg3NzlkNjQ2ODk0MDRiOGMzOWM2NjhlYzBmZDAwNCIsInVzZXJfaWQiOiIyIn0.mtyngGOxYF9WTwfe9hFwo9TBlCyAqjg_l-1aCTLuUTs",
+    "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzg2MDI2MTE2LCJpYXQiOjE3ODYwMjU4MTYsImp0aSI6IjNiNWUxMTc0ZTNlNTQwMDQ5N2YyN2VlZGM1ODllY2QzIiwidXNlcl9pZCI6IjIifQ.s7JvkhImx6WwKGKspxy4iOJu-uqMNHpexcEwJ97BcqE"
+}
